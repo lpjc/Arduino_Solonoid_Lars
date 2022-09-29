@@ -1,5 +1,5 @@
 # Arduino_Solenoid_Lars
- One program for sencret codes through tap'ing on surfaces.
+ One program for sending messages through tap'ing on surfaces.
  Three other custom programs for solonoid usage with Arduino
 
 ## ascii_enc_and_decode 
